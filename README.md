@@ -36,7 +36,6 @@ Revolutionary prescription scanning. Effortlessly extract medication data from p
 
 ### 📊 Health Matrix
 A high-resolution dashboard for your biometric telemetry. Track trends, monitor vitals, and visualize your clinical journey in real-time.
-<img src="docs/screenshots/hero.png" alt="Health Matrix Dashboard" width="100%" style="border-radius: 20px; border: 1px solid #1e293b;">
 
 ---
 
