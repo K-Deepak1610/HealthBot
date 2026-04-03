@@ -82,5 +82,5 @@ HealthBot AI prioritizes diagnostic safety. All insights are grounded in establi
 <p align="center">
   <img src="https://img.icons8.com/wired/64/4B5563/hospital.png" alt="Medical Icon">
   <br>
-  Built with Clinical Passion by <a href="https://github.com/K-Deepak1610">K-Deepak1610</a>
+  Built with Clinical Passion by <a href="https://github.com/K-Deepak1610">K-Deepak</a>
 </p>
